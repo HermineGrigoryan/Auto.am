@@ -34,3 +34,7 @@ Group members of the project are:
 - Hermine Grigoryan
 - Gor Khachatryan
 - Lilia Mamikonyan
+
+
+P.S.
+If you are unable to open open the *.ipynb* files follow the instructions [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11).
